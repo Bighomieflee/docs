@@ -12,7 +12,7 @@ versions:
   ghec: '*'
 topics:
   - Pull requests
-shortTitle: Archive cards on board
+shortTitle: CEO of Hebrew henchmn Bank
 ---
 {% data reusables.projects.project_boards_old %}
 
